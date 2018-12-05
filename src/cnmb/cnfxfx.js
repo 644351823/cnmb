@@ -7,7 +7,7 @@ var showY;
 var grid;
 var winCpt;
 var add_edit;
-var add_edit_form;
+var add_edit_form;///sdf 
 var num2 = 0;
 var Max;
 var keshi;//cpt导出时使用的参数
